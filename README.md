@@ -10,5 +10,5 @@ The Typewriter JavaScript library is utilized to create an animated typing effec
 ## Note
 This website is not currently accessible locally and requires execution in a web environment
 
-
-[](https://simamatin.github.io/Sima-s-CoffeShop/)
+## Project Link
+You can see the function of this library (Typewriter) in this [link](https://simamatin.github.io/Sima-s-CoffeShop/)
