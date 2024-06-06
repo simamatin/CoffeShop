@@ -5,6 +5,11 @@ This repository contains files related to the "Café Sima" website, where only t
 </p>
 
 
+## Project Link:
+You can see the function of this library (Typewriter) in this [link](https://simamatin.github.io/CoffeShop/).
+
+
+
 ## Typewriter JavaScript Library
 
 The Typewriter JavaScript library is utilized to create an animated typing effect on the main title of the website's header. This library enables the creation of text animations with various effects. More details and usage instructions for this library can be found in its respective documentation.
@@ -21,6 +26,3 @@ The Typewriter JavaScript library is utilized to create an animated typing effec
 
 ## Note:
 This website is not currently accessible locally and requires execution in a web environment.
-
-## Project Link:
-You can see the function of this library (Typewriter) in this [link](https://simamatin.github.io/CoffeShop/).
