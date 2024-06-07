@@ -1,4 +1,4 @@
-﻿# CoffeShop
+﻿# ☕ CoffeShop
 
  <p>
 This repository contains files related to the "Café Sima" website, where only the header of the page is implemented.
